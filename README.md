@@ -1,1 +1,1 @@
-# Emergency_stop
+Ros code to brake the vehicle in case of network loss.
